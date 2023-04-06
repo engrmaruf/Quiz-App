@@ -14,9 +14,8 @@ This is a simple quiz app built with JavaScript, HTML, and CSS.
 
 1. Clone or download the repository
 2. Open index.html in your web browser
-3. Click the "Start Quiz" button to begin the quiz
-4. Answer the questions to the best of your ability within the given time frame
-5. Click the "Submit" button to see your score and the correct answers
+3. Answer the questions to the best of your ability within the given time frame
+4. Click the "Submit" button to see your score and the correct answers
 
 ## API Reference
 
